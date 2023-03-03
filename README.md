@@ -4,6 +4,7 @@
 
 #### ✍ I am majoring in Statistics Analytics & Computer Engineering. 
 #### 📊 I am currently learning Data Analytics with Python.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ###  👏 Thanks for reading my README 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeun-moon&layout=compact)](https://github.com/daeun-moon/github-readme-stats)
