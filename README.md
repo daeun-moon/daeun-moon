@@ -2,8 +2,11 @@
 
 ### 👋 Hi, I'm Dadu🌙
 
-#### ✍ I am majoring in Statistics Analytics & Computer Engineering. 
-#### 📊 I am currently learning Data Analytics with  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ✍ I am majoring in Statistics Analytics & Computer Engineering. 
+- 📊 I am currently learning Data Analytics with  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+&nbsp;
+&nbsp;
 
 ## Explaing about My Repositories 
 
