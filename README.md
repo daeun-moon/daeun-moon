@@ -8,6 +8,14 @@
 &nbsp;
 &nbsp;
 
+## Other Repositories I participated in 
+#### 1️⃣ 트위그팜 Letr AI 본부 Sol4기 
+- https://github.com/twigfarm/letr-sol-New-Words-Detector
+- 신조어 추출 모델 및 정기적인 신조어 사전 구축 방법 개발 프로젝트 입니다. 
+
+
+&nbsp;
+
 ## Explaing about My Repositories 
 
 #### 1️⃣ MultiCampus_BootCamp
@@ -28,6 +36,4 @@
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeun-moon&layout=compact)](https://github.com/daeun-moon/github-readme-stats)
 
