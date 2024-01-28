@@ -8,7 +8,7 @@
 &nbsp;
 &nbsp;
 
-## Other Repositories I participated in 
+## Work Repositories 
 #### 1️⃣ 트위그팜 Letr AI 본부 Sol4기 
 - **신조어 추출 모델 및 정기적인 신조어 사전 구축 방법 개발 프로젝트**
 - https://github.com/twigfarm/letr-sol-New-Words-Detector
@@ -17,7 +17,7 @@
 
 &nbsp;
 
-## Explaing about My Repositories 
+## My Study Repositories 
 
 #### 1️⃣ MultiCampus_BootCamp
 - 2023.01 ~ 2023.06 동안 멀티캠퍼스 부트캠퍼스에서 진행한 프로젝트 목록입니다.
