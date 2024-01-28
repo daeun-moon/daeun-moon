@@ -10,8 +10,9 @@
 
 ## Other Repositories I participated in 
 #### 1️⃣ 트위그팜 Letr AI 본부 Sol4기 
+- **신조어 추출 모델 및 정기적인 신조어 사전 구축 방법 개발 프로젝트**
 - https://github.com/twigfarm/letr-sol-New-Words-Detector
-- 신조어 추출 모델 및 정기적인 신조어 사전 구축 방법 개발 프로젝트 입니다. 
+
 
 
 &nbsp;
@@ -21,6 +22,14 @@
 #### 1️⃣ MultiCampus_BootCamp
 - 2023.01 ~ 2023.06 동안 멀티캠퍼스 부트캠퍼스에서 진행한 프로젝트 목록입니다.
 - 각 프로젝트에 대한 설명은 해당 프로젝트의 README를 통해서 확인 하실 수 있습니다.
+- **Project 1 : 🌱 올리브영 랭킹상품 시각화를 통한 인사이트 추출 🌱**
+  -  https://github.com/daeun-moon/MultiCampus_BootCamp/tree/main/SubProject_OliveYoung
+- **Project 2 : 📰 다음 뉴스기사를 바탕으로한 뉴스레터 제작📰**
+  - https://github.com/daeun-moon/MultiCampus_BootCamp/tree/main/NaverNews_NewsLetter
+- **Project 3 : 👨‍🎓 취업준비생을 위한 자기소개서 서비스 👨‍🎓**
+  - https://github.com/daeun-moon/MultiCampus_BootCamp/tree/main/Analyzing%20Resume%20Service%20%20(JOBKOREA)
+- **Proejct 4 : 📺유튜브 채널 실시간 이슈 감지 및 분석 서비스📺**
+  - https://github.com/daeun-moon/MultiCampus_BootCamp/tree/main/Youtube_Anaylzing_Service
 
 #### 2️⃣ BDA
 - 데이터분석 학회에서 진행한 수업과 과제의 코드를 올렸습니다.
