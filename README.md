@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=330&section=header&text=Dadu's%20%20DataAnalytics&fontSize=50)
 
-### 👋 Hi, I'm Dadu🌙
+# 👋 Hi, Welcome I'm Dadu🌙
 
 - ✍ I am majoring in Statistics Analytics & Computer Engineering. 
-- 📊 I am currently learning Data Analytics with  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 📊 I am currently learning Data Science with   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 &nbsp;
 &nbsp;
